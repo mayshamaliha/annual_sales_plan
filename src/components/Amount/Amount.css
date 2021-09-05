@@ -1,0 +1,76 @@
+.amountDetail{
+    margin: 10px;
+    padding: 10px;
+    
+}
+.year{
+    font-size: 40px;
+    text-align: center;
+    border-radius: 20px;
+    width: 40%;
+    float: left;
+    padding: 20px;
+    
+}
+.yearArea1{
+    background-color: #ff4f56;
+    color: white;
+    width: 30%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-radius: 10px 10px 0px 0px;
+    margin-left: 150px;
+    margin-top: 30px;
+
+}
+.yearArea2{
+    /*background-color: #924fff;
+    background-color: #fcf0f0;*/
+    color: white;
+    width: 40%;
+    
+    padding-bottom: 80px;
+    border-radius: 0px 0px 0px 0px;
+    margin-left: 150px;
+    
+}
+
+.amountArea{
+    
+    text-align: center;
+    border-radius: 20px;
+    width: 40%;
+    float: left;
+    padding: 20px;
+}
+.amount{
+    font-size: 25px;
+}
+.amount input{
+    width: 300px;
+    height: 20px;
+    border: #D3D3D3 2px solid;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight:500;
+}
+.GP{
+    font-size: 25px;
+}
+.GP input{
+    width: 300px;
+    height: 20px;
+    border: #D3D3D3 2px solid;
+    margin: 20px;
+    margin-left: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight:500;
+}
+::placeholder{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
